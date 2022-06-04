@@ -15,6 +15,8 @@
 # limitations under the License.
 """Wrapper module for running gslib.__main__.main() from the command line."""
 
+print("Test")
+
 from __future__ import absolute_import
 from __future__ import print_function
 from __future__ import division
